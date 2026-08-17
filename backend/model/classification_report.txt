@@ -1,0 +1,1071 @@
+Model Accuracy: 51.91%
+
+                                                                        precision    recall  f1-score   support
+
+                                                              abacavir       0.00      0.00      0.00         2
+                                                   abiraterone acetate       0.00      0.00      0.00        10
+                                                           acamprosate       0.00      0.00      0.00         2
+                                                              acarbose       0.00      0.00      0.00        17
+                                                        acebrophylline       0.76      0.13      0.23       119
+                                                           aceclofenac       0.61      0.75      0.67      1737
+                                                         acenocoumarol       0.00      0.00      0.00         9
+                                                         acetazolamide       0.00      0.00      0.00         6
+                                                        acetylcysteine       0.90      0.27      0.42        33
+                                                             acitretin       0.00      0.00      0.00         6
+                                                            acotiamide       0.00      0.00      0.00         7
+                                                             acyclovir       0.83      0.15      0.25        67
+                                                            adalimumab       0.00      0.00      0.00         3
+                                                             adapalene       0.83      0.12      0.21        42
+                                                          ademetionine       0.00      0.00      0.00         4
+                                                             adenosine       0.00      0.00      0.00         3
+                                                            adrenaline       0.00      0.00      0.00         2
+                                        adrenochrome monosemicarbazone       0.00      0.00      0.00         2
+                                                    afatinib dimaleate       0.00      0.00      0.00         2
+                                                           agomelatine       0.00      0.00      0.00         1
+                                                           albendazole       0.31      0.63      0.41       177
+                                                               albumin       0.75      0.38      0.50         8
+                                                           alcaftadine       0.00      0.00      0.00         1
+                                                       alendronic acid       0.00      0.00      0.00         8
+                                                          alfacalcidol       0.00      0.00      0.00         1
+                                                             alfuzosin       0.67      0.29      0.40        14
+                                                             allantoin       0.00      0.00      0.00         2
+                                                           allopurinol       0.00      0.00      0.00        33
+                                                         allylestrenol       0.00      0.00      0.00        13
+                                                           almotriptan       0.00      0.00      0.00         1
+                                                            alogliptin       0.00      0.00      0.00         1
+                                                         alpha amylase       0.00      0.00      0.00         1
+                                                  alpha beta arteether       0.52      0.73      0.61        77
+                                       alpha glycerylphosphorylcholine       0.00      0.00      0.00         2
+                                                    alpha ketoanalogue       0.00      0.00      0.00        12
+                                                     alpha lipoic acid       0.00      0.00      0.00        11
+                                                            alprazolam       0.22      0.55      0.31       195
+                                                           alprostadil       0.00      0.00      0.00         1
+                                                   aluminium hydroxide       0.00      0.00      0.00        27
+                                                            amantadine       0.00      0.00      0.00         3
+                                                           ambrisentan       0.00      0.00      0.00         2
+                                                              ambroxol       0.23      0.82      0.36       477
+                                                            amifostine       0.00      0.00      0.00         2
+                                                              amikacin       0.36      0.75      0.49       362
+                                                             amiloride       0.00      0.00      0.00         1
+                                                           amino acids       0.00      0.00      0.00         3
+                                                         aminophylline       0.00      0.00      0.00         2
+                                                            amiodarone       0.00      0.00      0.00         8
+                                                           amisulpride       0.17      0.16      0.16        75
+                                                         amitriptyline       0.63      0.26      0.37       122
+                                                            amlodipine       0.63      0.55      0.58       307
+                                                     ammonium chloride       0.00      0.00      0.00        38
+                                                            amorolfine       1.00      0.24      0.38        21
+                                                             amoxapine       0.00      0.00      0.00         4
+                                                           amoxycillin       0.70      0.90      0.78      1710
+                                                        amphotericin b       0.00      0.00      0.00         7
+                                                            ampicillin       0.79      0.17      0.28       113
+                                                        amylmetacresol       0.00      0.00      0.00         1
+                                                           anastrozole       0.00      0.00      0.00        10
+                                                         anidulafungin       0.00      0.00      0.00         2
+                                              anti rh d immunoglobulin       0.00      0.00      0.00         3
+                                                              apixaban       0.00      0.00      0.00         5
+                                                            apremilast       0.00      0.00      0.00         4
+                                                            aprepitant       0.00      0.00      0.00         4
+                                                             aprotinin       0.00      0.00      0.00         2
+                                                          aripiprazole       1.00      0.20      0.34        49
+                                                           armodafinil       0.00      0.00      0.00         3
+                                                             arteether       0.00      0.00      0.00        42
+                                                            artemether       0.88      0.67      0.76        78
+                                                            artesunate       0.70      0.61      0.65       105
+                                                             asenapine       0.00      0.00      0.00         2
+                                                          asparaginase       0.00      0.00      0.00         6
+                                                               aspirin       0.83      0.82      0.82       138
+                                                            astemizole       0.00      0.00      0.00         2
+                                                            atazanavir       0.00      0.00      0.00         2
+                                                              atenolol       0.67      0.03      0.06        60
+                                                           atomoxetine       0.00      0.00      0.00         9
+                                                          atorvastatin       0.25      0.59      0.36       464
+                                                            atracurium       0.29      0.33      0.31         6
+                                                              atropine       0.00      0.00      0.00        13
+                                                              axitinib       0.00      0.00      0.00         3
+                                                           azacitidine       0.00      0.00      0.00         5
+                                                          azathioprine       0.00      0.00      0.00        11
+                                                          azelaic acid       1.00      0.25      0.40         8
+                                                            azelastine       0.00      0.00      0.00         1
+                                                          azelnidipine       0.00      0.00      0.00         4
+                                                  azilsartan medoxomil       0.00      0.00      0.00        27
+                                                          azithromycin       0.34      0.87      0.49       972
+                                                             aztreonam       0.00      0.00      0.00        14
+                                                      bacillus clausii       0.00      0.00      0.00         5
+                                                            bacitracin       0.00      0.00      0.00         2
+                                                              baclofen       0.60      0.09      0.15        35
+                                                          balofloxacin       0.00      0.00      0.00         4
+                                                           balsalazide       0.00      0.00      0.00         1
+                                                            bambuterol       0.00      0.00      0.00         6
+                                                           baricitinib       0.00      0.00      0.00         2
+                                                         beclometasone       0.65      0.19      0.30       144
+                                                        bempedoic acid       0.00      0.00      0.00         1
+                                                          bendamustine       0.00      0.00      0.00         5
+                                                          benfotiamine       0.00      0.00      0.00         7
+                                                            benidipine       1.00      0.25      0.40        28
+                                               benzathine penicillin g       0.00      0.00      0.00         2
+                                                            benzocaine       1.00      0.06      0.12        16
+                                                      benzoyl peroxide       1.00      0.13      0.24        15
+                                                           benzydamine       0.00      0.00      0.00         6
+                                                     benzyl nicotinate       0.00      0.00      0.00         2
+                                                           bepotastine       0.00      0.00      0.00         6
+                                                           betahistine       0.59      0.91      0.71       202
+                                                         betamethasone       0.86      0.07      0.13        82
+                                                             betaxolol       0.00      0.00      0.00         1
+                                                           bethanechol       0.00      0.00      0.00         3
+                                                           bevacizumab       1.00      0.12      0.22         8
+                                                          bicalutamide       0.00      0.00      0.00         6
+                                                            bifonazole       0.00      0.00      0.00         2
+                                                             bilastine       0.88      0.29      0.43        49
+                                                           bimatoprost       0.00      0.00      0.00         8
+                                                                biotin       0.00      0.00      0.00         4
+                                                             bisacodyl       0.00      0.00      0.00         9
+                                                            bisoprolol       1.00      0.07      0.14        27
+                                                           bivalirudin       0.00      0.00      0.00         2
+                                                             bleomycin       1.00      0.25      0.40         4
+                                                           blonanserin       0.00      0.00      0.00         4
+                                                            boric acid       0.00      0.00      0.00         1
+                                                            bortezomib       0.00      0.00      0.00        10
+                                                              bosentan       0.00      0.00      0.00         3
+                                                             bosutinib       0.00      0.00      0.00         1
+                                                           brimonidine       0.00      0.00      0.00         8
+                                                          brinzolamide       0.00      0.00      0.00         5
+                                                          brivaracetam       1.00      0.23      0.38        26
+                                                             bromelain       0.78      0.61      0.69       119
+                                                             bromfenac       1.00      0.23      0.38        13
+                                                            bromhexine       0.69      0.24      0.36       146
+                                                         bromocriptine       0.00      0.00      0.00         8
+                                                             buclizine       0.00      0.00      0.00         2
+                                                            budesonide       0.50      0.41      0.45        17
+                                                           bupivacaine       1.00      0.17      0.29         6
+                                                         buprenorphine       0.42      0.71      0.53         7
+                                                             bupropion       0.00      0.00      0.00         7
+                                                             buserelin       0.00      0.00      0.00         2
+                                                             buspirone       0.00      0.00      0.00         4
+                                                              busulfan       0.00      0.00      0.00         1
+                                                            butenafine       0.00      0.00      0.00         1
+                                                           cabazitaxel       0.00      0.00      0.00         2
+                                                           cabergoline       0.00      0.00      0.00         7
+                                                          cabozantinib       0.00      0.00      0.00         2
+                                                      cadexomer iodine       0.00      0.00      0.00         2
+                                                              caffeine       0.58      0.18      0.27       173
+                                                              calamine       0.00      0.00      0.00         3
+                                                          calcipotriol       1.00      0.20      0.33         5
+                                                            calcitonin       0.00      0.00      0.00         6
+                                                            calcitriol       0.33      0.39      0.36        18
+                                                               calcium       1.00      0.07      0.13        14
+                                                     calcium carbonate       0.00      0.00      0.00         4
+                                                       calcium citrate       0.00      0.00      0.00         2
+                                                calcium citrate malate       0.00      0.00      0.00         2
+                                                    calcium dobesilate       0.00      0.00      0.00        14
+                                                     calcium gluconate       0.00      0.00      0.00         2
+                                                    calcium leucovorin       0.40      0.29      0.33         7
+                                        calcium polystyrene sulphonate       0.00      0.00      0.00         3
+                                                               camphor       0.00      0.00      0.00         4
+                                                             camylofin       0.00      0.00      0.00         5
+                                                         canagliflozin       0.00      0.00      0.00         1
+                                                           candesartan       0.00      0.00      0.00         4
+                                                          capecitabine       0.00      0.00      0.00        12
+                                                           capreomycin       0.00      0.00      0.00         1
+                                                             captopril       0.00      0.00      0.00         1
+                                                         carbamazepine       0.86      0.18      0.29        34
+                                                         carbazochrome       0.00      0.00      0.00         1
+                                                           carbimazole       0.00      0.00      0.00         4
+                                                         carbocisteine       0.00      0.00      0.00         1
+                                                           carboplatin       1.00      0.31      0.47        13
+                                                            carboprost       0.00      0.00      0.00         3
+                                                carboxymethylcellulose       0.72      0.30      0.42        87
+                                                           cariprazine       0.00      0.00      0.00         1
+                                                          carisoprodol       0.00      0.00      0.00         1
+                                                            carmustine       0.00      0.00      0.00         1
+                                                            caroverine       0.00      0.00      0.00         1
+                                                            carvedilol       0.62      0.20      0.30        41
+                                                           caspofungin       1.00      0.40      0.57        10
+                                                              cefaclor       0.00      0.00      0.00        14
+                                                            cefadroxil       1.00      0.12      0.21       121
+                                                             cefalexin       1.00      0.06      0.10       127
+                                                             cefazolin       0.00      0.00      0.00         5
+                                                              cefdinir       0.00      0.00      0.00        14
+                                                            cefditoren       0.00      0.00      0.00         2
+                                                              cefepime       1.00      0.05      0.09        65
+                                                             cefetamet       0.00      0.00      0.00         1
+                                                              cefixime       0.66      0.58      0.62      1799
+                                                          cefoperazone       0.74      0.41      0.53       271
+                                                            cefotaxime       1.00      0.01      0.03        67
+                                                             cefpirome       0.00      0.00      0.00         8
+                                                  cefpodoxime proxetil       0.65      0.53      0.58      1220
+                                                             cefprozil       0.00      0.00      0.00         3
+                                                           ceftazidime       1.00      0.03      0.06       140
+                                                           ceftizoxime       0.00      0.00      0.00         4
+                                                           ceftriaxone       0.53      0.87      0.66      1237
+                                                            cefuroxime       0.86      0.17      0.29       654
+                                                     cefuroxime axetil       0.00      0.00      0.00         1
+                                                             celecoxib       0.00      0.00      0.00         9
+                                                           centchroman       0.00      0.00      0.00         2
+                                            cerebroprotein hydrolysate       0.00      0.00      0.00        15
+                                                            cetirizine       0.64      0.20      0.31       280
+                                                             cetrimide       0.67      0.10      0.17        20
+                                                            cetrorelix       0.00      0.00      0.00         4
+                                                          chlorambucil       0.00      0.00      0.00         1
+                                                       chloramphenicol       0.36      0.21      0.27        70
+                                                      chlordiazepoxide       0.89      0.35      0.51        48
+                                               chlorhexidine gluconate       0.82      0.63      0.71        43
+                                                           chloroquine       0.50      0.10      0.17        29
+                                              chlorpheniramine maleate       0.36      0.36      0.36       413
+                                                        chlorpromazine       0.50      0.07      0.13        27
+                                                        chlorthalidone       1.00      0.05      0.10        19
+                                                         chlorzoxazone       0.56      0.76      0.65       193
+                                                               choline       0.00      0.00      0.00         4
+                                                    choline salicylate       0.00      0.00      0.00        14
+                                                choline theophyllinate       0.00      0.00      0.00         4
+                                                           chondroitin       0.00      0.00      0.00         2
+                                                           ciclesonide       0.00      0.00      0.00         5
+                                                            ciclopirox       0.00      0.00      0.00         9
+                                                           ciclosporin       0.33      0.05      0.09        20
+                                                           cilnidipine       0.80      0.30      0.43       148
+                                                            cilostazol       0.00      0.00      0.00         9
+                                                            cimetidine       0.00      0.00      0.00         2
+                                                            cinacalcet       0.00      0.00      0.00         3
+                                                           cinitapride       1.00      0.11      0.20         9
+                                                           cinnarizine       0.67      0.13      0.22        45
+                                                         ciprofloxacin       0.81      0.30      0.44       373
+                                                             cisapride       0.00      0.00      0.00         9
+                                                         cisatracurium       0.00      0.00      0.00         1
+                                                             cisplatin       0.00      0.00      0.00        10
+                                                            citalopram       0.00      0.00      0.00        16
+                                                            citicoline       0.97      0.26      0.41       150
+                                                           citric acid       0.00      0.00      0.00         9
+                                                        clarithromycin       1.00      0.03      0.06        67
+                                                            clemastine       0.00      0.00      0.00         1
+                                                             clidinium       0.00      0.00      0.00        15
+                                                           clindamycin       0.33      0.75      0.46       155
+                                                           clinidipine       0.00      0.00      0.00         1
+                                                            clioquinol       0.00      0.00      0.00         1
+                                                              clobazam       1.00      0.07      0.13        42
+                                                            clobetasol       0.64      0.43      0.52       201
+                                                           clobetasone       0.00      0.00      0.00         5
+                                                           clofazimine       0.00      0.00      0.00         2
+                                                            clomiphene       0.50      0.02      0.05        42
+                                                          clomipramine       0.00      0.00      0.00        20
+                                                            clonazepam       0.58      0.45      0.50       296
+                                                             clonidine       0.00      0.00      0.00         4
+                                                           clopidogrel       0.34      0.68      0.45        44
+                                                          clotrimazole       0.47      0.47      0.47        83
+                                                           cloxacillin       0.00      0.00      0.00         4
+                                                             clozapine       0.00      0.00      0.00        33
+                                                              coal tar       0.00      0.00      0.00         3
+                                                               codeine       0.00      0.00      0.00        10
+                                                          coenzyme q10       0.00      0.00      0.00        10
+                                                            colchicine       0.00      0.00      0.00         2
+                                                 colistimethate sodium       0.69      0.79      0.74        34
+                                                     colistin sulphate       0.89      0.44      0.59        18
+                                                             colostrum       0.00      0.00      0.00         2
+                                                  conjugated estrogens       0.00      0.00      0.00         2
+                                                        cyanocobalamin       0.00      0.00      0.00         1
+                                                          cyclandelate       0.00      0.00      0.00         2
+                                                       cyclobenzaprine       0.00      0.00      0.00         6
+                                                        cyclopentolate       0.00      0.00      0.00         7
+                                                      cyclophosphamide       1.00      0.09      0.17        11
+                                                           cycloserine       0.00      0.00      0.00         2
+                                                        cyproheptadine       0.47      0.04      0.07       219
+                                                           cyproterone       0.67      0.57      0.62         7
+                                                            cytarabine       0.00      0.00      0.00         8
+                                                           d panthenol       0.00      0.00      0.00         1
+                                                  dabigatran etexilate       0.86      0.43      0.57        14
+                                                           dacarbazine       0.00      0.00      0.00         7
+                                                           daclatasvir       0.00      0.00      0.00         4
+                                                          dactinomycin       0.00      0.00      0.00         1
+                                                            dalteparin       0.00      0.00      0.00         2
+                                                               danazol       0.00      0.00      0.00         9
+                                                         dapagliflozin       0.79      0.36      0.49       115
+                                                            dapoxetine       0.00      0.00      0.00        11
+                                                               dapsone       0.00      0.00      0.00         2
+                                                            daptomycin       0.00      0.00      0.00         2
+                                                      darbepoetin alfa       0.86      0.50      0.63        12
+                                                           darifenacin       0.00      0.00      0.00         3
+                                                             darunavir       0.00      0.00      0.00         2
+                                                             dasatinib       0.00      0.00      0.00         8
+                                                          daunorubicin       0.00      0.00      0.00         1
+                                                          deca peptide       0.00      0.00      0.00         2
+                                                            decitabine       0.00      0.00      0.00         3
+                                                           deferasirox       0.00      0.00      0.00         3
+                                                           deflazacort       0.74      0.73      0.73       425
+                                                             degarelix       0.00      0.00      0.00         3
+                                                dehydroepiandrosterone       0.00      0.00      0.00        13
+                                                             denosumab       0.00      0.00      0.00         2
+                                                         desloratadine       0.00      0.00      0.00        33
+                                                          desmopressin       0.00      0.00      0.00         2
+                                                              desonide       0.00      0.00      0.00         6
+                                                        desoximetasone       0.00      0.00      0.00         1
+                                                        desvenlafaxine       0.67      0.18      0.29        33
+                                                         dexamethasone       1.00      0.05      0.09        41
+                                                   dexchlorpheniramine       0.00      0.00      0.00         8
+                                                          dexibuprofen       0.00      0.00      0.00         3
+                                                         dexketoprofen       0.00      0.00      0.00         3
+                                                       dexlansoprazole       0.00      0.00      0.00         3
+                                                       dexmedetomidine       0.00      0.00      0.00         3
+                                                        dexrabeprazole       0.00      0.00      0.00         4
+                                         dextromethorphan hydrobromide       0.00      0.00      0.00        21
+                                                              dextrose       0.00      0.00      0.00         5
+                                                             diacerein       0.61      0.66      0.63        99
+                                                       diatrizoic acid       0.00      0.00      0.00         2
+                                                              diazepam       0.44      0.22      0.30        36
+                                                            diclofenac       0.77      0.65      0.71       972
+                                               diclofenac diethylamine       0.20      0.04      0.06        27
+                                                           dicyclomine       0.84      0.62      0.71       225
+                                                            didanosine       0.00      0.00      0.00         1
+                                                             dienogest       0.00      0.00      0.00         9
+                                                    diethylcarbamazine       1.00      0.07      0.13        14
+                                                         difluprednate       0.00      0.00      0.00         4
+                                                               digoxin       0.00      0.00      0.00         5
+                                                              dill oil       0.00      0.00      0.00         2
+                                                            diloxanide       0.00      0.00      0.00         6
+                                                             diltiazem       0.33      0.10      0.16        29
+                                                        dimenhydrinate       0.00      0.00      0.00         1
+                                                           dimethicone       0.00      0.00      0.00         4
+                                                     dimethyl fumarate       0.00      0.00      0.00         2
+                                                          dinoprostone       0.00      0.00      0.00         1
+                                                               diosmin       0.00      0.00      0.00         4
+                                                       diphenhydramine       0.00      0.00      0.00        12
+                                                     diphtheria toxoid       0.27      1.00      0.43         6
+                                                          dipyridamole       0.00      0.00      0.00         1
+                                             disodium hydrogen citrate       0.65      0.40      0.49        60
+                                                            disulfiram       0.00      0.00      0.00        10
+                                                            divalproex       0.71      0.67      0.69       104
+                                                            dobutamine       0.00      0.00      0.00         6
+                                                             docetaxel       1.00      0.15      0.26        27
+                                                   docosahexanoic acid       0.00      0.00      0.00         2
+                                                           domperidone       0.78      0.88      0.83      1774
+                                                             donepezil       1.00      0.07      0.14        27
+                                                              dopamine       0.00      0.00      0.00         4
+                                                             doripenem       0.00      0.00      0.00         9
+                                                           dorzolamide       0.00      0.00      0.00        10
+                                                             dosulepin       0.00      0.00      0.00        31
+                                                             doxazosin       0.00      0.00      0.00         2
+                                                               doxepin       0.00      0.00      0.00        10
+                                                           doxofylline       0.45      0.28      0.34        65
+                                                           doxorubicin       0.18      0.43      0.25        21
+                                                           doxycycline       0.80      0.19      0.31        83
+                                                            doxylamine       0.77      0.61      0.68       115
+                                                           drotaverine       0.83      0.62      0.71       252
+                                                            duloxetine       0.79      0.15      0.26        71
+                                                           dutasteride       0.00      0.00      0.00        10
+                                                        dydrogesterone       0.00      0.00      0.00         4
+                                                              ebastine       0.00      0.00      0.00        23
+                                                          eberconazole       1.00      0.08      0.14        13
+                                                             edaravone       0.07      0.29      0.12         7
+                                                             efavirenz       0.00      0.00      0.00         3
+                                                          eflornithine       0.00      0.00      0.00         1
+                                                           efonidipine       0.00      0.00      0.00         2
+                                                 eicosapentaenoic acid       0.00      0.00      0.00         5
+                                                          electrolytes       0.00      0.00      0.00         1
+                                                        elemental iron       0.00      0.00      0.00         5
+                                                         empagliflozin       0.00      0.00      0.00         4
+                                                         emtricitabine       0.67      0.40      0.50         5
+                                                             enalapril       1.00      0.03      0.06        34
+                                                          enclomiphene       0.00      0.00      0.00         5
+                                                            enoxaparin       0.71      0.23      0.34        44
+                                                             entecavir       0.00      0.00      0.00         7
+                                                          enzalutamide       0.00      0.00      0.00         4
+                                                            epalrestat       0.00      0.00      0.00         6
+                                                             eperisone       0.00      0.00      0.00        11
+                                                             ephedrine       0.00      0.00      0.00         1
+                                                            epinastine       0.00      0.00      0.00         1
+                                                            epirubicin       0.00      0.00      0.00        15
+                                                            eplerenone       0.00      0.00      0.00         8
+                                                          eptifibatide       1.00      0.40      0.57         5
+                                          equine rabies immunoglobulin       0.00      0.00      0.00         1
+                                                     eribulin mesylate       0.00      0.00      0.00         2
+                                                             erlotinib       0.00      0.00      0.00         8
+                                                             ertapenem       0.00      0.00      0.00         5
+                                                          erythromycin       0.00      0.00      0.00        29
+                                                  escitalopram oxalate       0.67      0.06      0.10       143
+                                                       eslicarbazepine       0.00      0.00      0.00         3
+                                                               esmolol       0.00      0.00      0.00         1
+                                                          esomeprazole       1.00      0.06      0.11       117
+                                                             estradiol       0.00      0.00      0.00        19
+                                                               estriol       0.00      0.00      0.00         1
+                                                           eszopiclone       0.00      0.00      0.00         4
+                                                            etanercept       0.00      0.00      0.00         1
+                                                            ethambutol       0.00      0.00      0.00        21
+                                                           ethamsylate       0.50      0.02      0.04        55
+                                                     ethinyl estradiol       1.00      0.12      0.21        26
+                                                           ethionamide       0.00      0.00      0.00         3
+                                                              etizolam       0.58      0.07      0.12       102
+                                                              etodolac       0.79      0.45      0.57        49
+                                                            etofylline       1.00      0.18      0.31        11
+                                                             etoposide       0.00      0.00      0.00         7
+                                                            etoricoxib       0.81      0.74      0.77       397
+                                           euphorbia prostrata extract       0.00      0.00      0.00         1
+                                                  evening primrose oil       0.00      0.00      0.00         1
+                                                            everolimus       0.00      0.00      0.00         7
+                                                            exemestane       0.00      0.00      0.00         1
+                                                             ezetimibe       0.00      0.00      0.00         5
+                                                           famciclovir       0.00      0.00      0.00         4
+                                                            famotidine       0.00      0.00      0.00        19
+                                                             faropenem       0.75      0.09      0.17        32
+                                                           favipiravir       0.00      0.00      0.00        17
+                                                            febuxostat       0.32      0.33      0.33       154
+                                                            felodipine       0.00      0.00      0.00         1
+                                                           fenofibrate       0.84      0.52      0.64        89
+                                                              fentanyl       0.00      0.00      0.00         3
+                                                         fenticonazole       0.00      0.00      0.00         6
+                                                            feracrylum       0.00      0.00      0.00         2
+                                                 ferric carboxymaltose       0.00      0.00      0.00         3
+                                                     ferrous ascorbate       0.44      0.64      0.52        11
+                                                  ferrous bisglycinate       0.00      0.00      0.00         1
+                                                          fexofenadine       0.64      0.88      0.75       154
+                                                            filgrastim       0.88      0.88      0.88         8
+                                                           finasteride       0.00      0.00      0.00        18
+                                                             flavoxate       0.00      0.00      0.00        26
+                                                 flucloxacillin sodium       0.00      0.00      0.00         1
+                                                           fluconazole       0.48      0.72      0.58       307
+                                                           flucytosine       0.00      0.00      0.00         1
+                                                           fludarabine       0.00      0.00      0.00         2
+                                                           flunarizine       0.00      0.00      0.00        65
+                                                fluocinolone acetonide       0.33      0.06      0.10        18
+                                                       fluorometholone       0.00      0.00      0.00        10
+                                                          fluorouracil       0.00      0.00      0.00         5
+                                                            fluoxetine       0.60      0.07      0.13        80
+                                                          flupenthixol       0.00      0.00      0.00        48
+                                                          fluphenazine       0.00      0.00      0.00         3
+                                                            flupirtine       0.00      0.00      0.00        23
+                                                            flurazepam       0.00      0.00      0.00         1
+                                                          flurbiprofen       0.50      0.07      0.12        14
+                                                             flutamide       0.00      0.00      0.00         1
+                                                   fluticasone furoate       1.00      0.08      0.14        13
+                                                fluticasone propionate       0.27      0.45      0.34        33
+                                                           fluvoxamine       1.00      0.09      0.16        23
+                                                            folic acid       0.00      0.00      0.00        15
+                                                          fondaparinux       0.00      0.00      0.00         3
+                                                            formoterol       0.55      0.87      0.67        54
+                                                         fosaprepitant       0.00      0.00      0.00         3
+                                                            fosfomycin       0.67      0.20      0.31        10
+                                                          fosphenytoin       0.00      0.00      0.00         2
+                                                            framycetin       0.00      0.00      0.00         2
+                      freeze dried live attenuated hepatitis a vaccine       0.00      0.00      0.00         1
+                                                           fulvestrant       0.00      0.00      0.00         4
+                                                          furazolidone       0.00      0.00      0.00        14
+                                                            furosemide       0.00      0.00      0.00        13
+                                                          fusidic acid       0.00      0.00      0.00        26
+                                                            gabapentin       0.93      0.55      0.69       277
+                                            gamma benzene hexachloride       0.00      0.00      0.00         1
+                                                           ganciclovir       0.00      0.00      0.00         5
+                                                          gatifloxacin       1.00      0.07      0.13        84
+                                                             gefitinib       0.00      0.00      0.00        11
+                                                           gemcitabine       1.00      0.05      0.09        22
+                                                           gemfibrozil       0.00      0.00      0.00         2
+                                                          gemifloxacin       1.00      0.71      0.83         7
+                                                            gentamicin       0.00      0.00      0.00        39
+                                                         ginkgo biloba       1.00      0.38      0.55         8
+                                                    glatiramer acetate       0.00      0.00      0.00         1
+                                                         glibenclamide       0.56      0.27      0.36        37
+                                                            gliclazide       0.85      0.64      0.73       163
+                                                           glimepiride       0.64      0.92      0.76      1053
+                                                             glipizide       0.25      0.05      0.09        19
+                                                           glucosamine       0.90      0.16      0.27        56
+                                                           glutathione       0.00      0.00      0.00         9
+                                                              glycerin       0.00      0.00      0.00         6
+                                                        glycopyrrolate       0.00      0.00      0.00         7
+                                                           granisetron       0.50      0.33      0.40        15
+                                 granulocyte colony stimulating factor       0.00      0.00      0.00         1
+                                                          griseofulvin       0.00      0.00      0.00        15
+                                                           guaifenesin       0.91      0.13      0.22        79
+                                                           halobetasol       1.00      0.31      0.47        26
+                                                           haloperidol       1.00      0.10      0.18        52
+                                                 haloperidol decanoate       0.00      0.00      0.00         5
+                                                         hemocoagulase       0.00      0.00      0.00         2
+                                                               heparin       1.00      0.24      0.38        17
+                                                   hepatitis b vaccine       1.00      0.14      0.25         7
+                                                           homatropine       0.00      0.00      0.00         2
+                                          human chorionic gonadotropin       0.61      0.72      0.66        32
+                                      human hepatitis b immunoglobulin       0.00      0.00      0.00         2
+                                                         human insulin       0.40      0.29      0.33         7
+                                           human normal immunoglobulin       0.00      0.00      0.00         7
+                                                       hyaluronic acid       0.00      0.00      0.00         8
+                                                         hyaluronidase       0.00      0.00      0.00         2
+                                                   hydrochlorothiazide       0.85      0.54      0.66        52
+                                                        hydrocortisone       0.50      0.05      0.09        42
+                                                     hydrogen peroxide       0.00      0.00      0.00         2
+                                                          hydroquinone       0.67      0.23      0.34        69
+                                                    hydroxychloroquine       0.00      0.00      0.00        21
+                                                   hydroxyethyl starch       0.00      0.00      0.00         1
+                                                   hydroxyprogesterone       1.00      0.14      0.24        51
+                                          hydroxypropylmethylcellulose       0.50      0.17      0.25        24
+                                                           hydroxyurea       0.00      0.00      0.00         5
+                                                           hydroxyzine       0.28      0.28      0.28        86
+                                                 hyoscine butylbromide       0.00      0.00      0.00         9
+                                                           hyoscyamine       0.00      0.00      0.00         1
+                                                       ibandronic acid       0.00      0.00      0.00         8
+                                                             ibrutinib       0.00      0.00      0.00         2
+                                                             ibuprofen       0.58      0.39      0.47       102
+                                                             idebenone       0.00      0.00      0.00         2
+                                                            ifosfamide       0.00      0.00      0.00         3
+                                                            iguratimod       0.00      0.00      0.00         1
+                                                            ilaprazole       0.00      0.00      0.00         9
+                                                           iloperidone       0.00      0.00      0.00         6
+                                                     imatinib mesylate       0.00      0.00      0.00        15
+                                                              imipenem       0.00      0.00      0.00        38
+                                                            imipramine       0.00      0.00      0.00        17
+                                         inactivated influenza vaccine       1.00      0.50      0.67         6
+                       inactivated japanese encephalitis virus protein       0.00      0.00      0.00         1
+                                                           indacaterol       0.00      0.00      0.00         2
+                                                            indapamide       0.00      0.00      0.00         7
+                                                          indomethacin       0.00      0.00      0.00        12
+                                                        insulin aspart       0.00      0.00      0.00         3
+                                                      insulin glargine       0.50      0.60      0.55         5
+                                                      insulin isophane       0.25      0.17      0.20         6
+                                                  insulin isophane nph       0.69      0.90      0.78        10
+                                                        insulin lispro       1.00      0.67      0.80         3
+                                                   interferon alpha 2b       0.00      0.00      0.00         2
+                                                               iohexol       0.00      0.00      0.00         1
+                                                           ipratropium       0.00      0.00      0.00         2
+                                                            irbesartan       0.00      0.00      0.00         7
+                                                            irinotecan       0.00      0.00      0.00         7
+                                                                  iron       0.00      0.00      0.00        13
+                                                     iron isomaltoside       0.00      0.00      0.00         1
+                                                          iron sucrose       0.86      0.08      0.14        79
+                                                            isoflurane       0.00      0.00      0.00         3
+                                                             isoniazid       0.80      0.14      0.24        29
+                                                          isopropamide       0.00      0.00      0.00         1
+                                                  isosorbide dinitrate       0.00      0.00      0.00         5
+                                                isosorbide mononitrate       1.00      0.06      0.12        31
+                                                          isotretinoin       0.59      0.52      0.55        83
+                                                           isoxsuprine       0.68      0.37      0.48        51
+                                                              itopride       0.00      0.00      0.00         8
+                                                          itraconazole       0.70      0.87      0.78       528
+                                                            ivabradine       0.00      0.00      0.00        20
+                                                            ivermectin       0.75      0.48      0.58       149
+                                                             kanamycin       0.00      0.00      0.00         2
+                                                              ketamine       0.00      0.00      0.00         6
+                                                          ketoconazole       0.60      0.51      0.56       214
+                                                            ketoprofen       0.00      0.00      0.00         5
+                                                             ketorolac       0.42      0.41      0.41        76
+                                                             ketotifen       0.00      0.00      0.00         4
+                                                  l alanyl l glutamine       0.00      0.00      0.00         3
+                                                            l arginine       0.00      0.00      0.00         2
+                                                       l methyl folate       0.00      0.00      0.00         7
+                                               l methyl folate calcium       0.00      0.00      0.00         1
+                                               l ornithine l aspartate       0.79      0.26      0.39        42
+                                                             labetalol       0.00      0.00      0.00        17
+                                                            lacosamide       1.00      0.05      0.10        20
+                                                              lactitol       0.62      0.36      0.46        22
+                                                         lactobacillus       0.00      0.00      0.00         5
+                                                             lactulose       0.52      0.56      0.54        66
+                                                            lafutidine       0.00      0.00      0.00         6
+                                                            lamivudine       1.00      0.11      0.19        19
+                                                           lamotrigine       1.00      0.24      0.38        34
+                                                          lansoprazole       0.80      0.78      0.79        50
+                                                   lanthanum carbonate       0.00      0.00      0.00         1
+                                                             lapatinib       0.00      0.00      0.00         2
+                                                           latanoprost       0.00      0.00      0.00         4
+                                                            ledipasvir       0.00      0.00      0.00         3
+                                                           leflunomide       0.00      0.00      0.00        14
+                                                          lenalidomide       0.12      0.08      0.10        12
+                                                            lenvatinib       0.00      0.00      0.00         5
+                                                         lercanidipine       0.00      0.00      0.00         1
+                                                             letrozole       0.00      0.00      0.00        35
+                                                            leuprolide       1.00      0.62      0.76        13
+                                                            levamisole       0.00      0.00      0.00         9
+                                                         levetiracetam       1.00      0.22      0.35       116
+                                                        levo carnitine       0.00      0.00      0.00        25
+                                                        levocetirizine       0.23      0.81      0.36      1195
+                                                      levocloperastine       0.00      0.00      0.00         5
+                                                              levodopa       0.00      0.00      0.00         7
+                                                      levodropropizine       0.00      0.00      0.00         1
+                                                          levofloxacin       0.67      0.22      0.33       465
+                                                        levonorgestrel       0.00      0.00      0.00         5
+                                                        levosalbutamol       0.65      0.18      0.28        97
+                                                          levosimendan       0.00      0.00      0.00         1
+                                                         levosulpiride       0.95      0.74      0.83       351
+                                                             lidocaine       0.39      0.52      0.45        64
+                                                           linagliptin       0.00      0.00      0.00         3
+                                                            lincomycin       0.00      0.00      0.00        12
+                                                               lindane       0.67      0.09      0.15        23
+                                                             linezolid       0.68      0.80      0.74       110
+                                              liposomal amphotericin b       0.00      0.00      0.00         3
+                                                       liquid paraffin       0.00      0.00      0.00         5
+                                                            lisinopril       0.00      0.00      0.00        24
+                                                     lithium carbonate       0.29      0.09      0.13        23
+                                                          lomefloxacin       0.00      0.00      0.00         4
+                                                             lomustine       0.00      0.00      0.00         1
+                                                            loperamide       0.38      0.17      0.23        18
+                                                            loratadine       0.00      0.00      0.00        34
+                                                             lorazepam       0.00      0.00      0.00        48
+                                                            lornoxicam       0.87      0.47      0.61        95
+                                                              losartan       0.19      0.58      0.28       154
+                                                 loteprednol etabonate       0.89      0.48      0.63        33
+                                                            lovastatin       0.00      0.00      0.00         6
+                                                              loxapine       0.00      0.00      0.00         7
+                                                          luliconazole       0.23      0.85      0.36       214
+                                                            lurasidone       0.00      0.00      0.00         7
+                                                           lymecycline       0.00      0.00      0.00         2
+                                                                lysine       0.00      0.00      0.00         2
+                                                            magaldrate       0.54      0.28      0.37       123
+                                                magnesium bisglycinate       0.00      0.00      0.00         1
+                                                     magnesium citrate       0.00      0.00      0.00         3
+                                                    magnesium sulphate       0.00      0.00      0.00         1
+                                                   magnesium valproate       0.00      0.00      0.00         4
+                                                              mannitol       0.00      0.00      0.00         2
+                                                       measles vaccine       0.00      0.00      0.00         2
+                                                           mebendazole       0.00      0.00      0.00         8
+                                                            mebeverine       1.00      0.25      0.40        20
+                                                             meclizine       0.00      0.00      0.00         3
+                                           medroxyprogesterone acetate       0.00      0.00      0.00        17
+                                                        mefenamic acid       0.28      0.60      0.38       205
+                                                            mefloquine       0.00      0.00      0.00         4
+                                                             megestrol       0.00      0.00      0.00         6
+                                                             melatonin       1.00      0.23      0.38        13
+                                                            melitracen       0.00      0.00      0.00         1
+                                                             meloxicam       0.00      0.00      0.00         8
+                                                             melphalan       0.00      0.00      0.00         3
+                                                             memantine       0.00      0.00      0.00         8
+                                                             menadione       0.00      0.00      0.00         1
+                                                 meningococcal vaccine       0.00      0.00      0.00         2
+                                                           menotrophin       0.59      0.59      0.59        17
+                                                               menthol       0.00      0.00      0.00         5
+                                                         mephentermine       0.00      0.00      0.00         1
+                                                        mercaptopurine       0.00      0.00      0.00         1
+                                                             meropenem       0.55      0.12      0.20       231
+                                                            mesalazine       0.75      0.18      0.29        17
+                                                                 mesna       0.00      0.00      0.00         3
+                                                           mesterolone       0.00      0.00      0.00         1
+                                                            metadoxine       0.00      0.00      0.00         5
+                                                            metamizole       0.00      0.00      0.00         1
+                                                             metformin       0.74      0.73      0.74       450
+                                                          methdilazine       0.00      0.00      0.00         1
+                                                          methotrexate       1.00      0.10      0.19        39
+                                                           methoxsalen       0.00      0.00      0.00         8
+                                                       methylcobalamin       0.49      0.83      0.61       637
+                                                            methyldopa       0.00      0.00      0.00         2
+                                                     methylergometrine       0.00      0.00      0.00        16
+                                                       methylphenidate       0.00      0.00      0.00         5
+                                                    methylprednisolone       0.76      0.14      0.24       251
+                                                        metoclopramide       0.00      0.00      0.00        20
+                                                            metolazone       0.00      0.00      0.00         5
+                                                  metoprolol succinate       0.60      0.69      0.64       163
+                                                   metoprolol tartrate       0.00      0.00      0.00        12
+                                                         metronidazole       0.56      0.07      0.13        69
+                                                            mexiletine       0.00      0.00      0.00         1
+                                                            micafungin       0.00      0.00      0.00         4
+                                                            miconazole       0.00      0.00      0.00        17
+                                                             midazolam       0.00      0.00      0.00         8
+                                                             midodrine       0.00      0.00      0.00         4
+                                                          mifepristone       1.00      0.10      0.17        21
+                                                              miglitol       0.00      0.00      0.00         4
+                                                      milk of magnesia       0.00      0.00      0.00         4
+                                                           milnacipran       0.00      0.00      0.00         3
+                                                             milrinone       0.00      0.00      0.00         2
+                                                           minocycline       0.00      0.00      0.00        17
+                                                             minoxidil       0.55      0.82      0.66        74
+                                                            mirabegron       1.00      0.14      0.25        14
+                                                           mirtazapine       1.00      0.03      0.05        40
+                                                           misoprostol       0.67      0.36      0.47        11
+                                                             mitomycin       0.00      0.00      0.00         3
+                                                          mitoxantrone       0.00      0.00      0.00         1
+                                                           moclobemide       0.00      0.00      0.00         1
+                                                             modafinil       0.00      0.00      0.00         7
+                                                          molnupiravir       0.00      0.00      0.00         3
+                                                            mometasone       0.85      0.11      0.20        96
+                                                           montelukast       0.91      0.61      0.74       210
+                                                              morphine       0.00      0.00      0.00         3
+                                                             mosapride       0.00      0.00      0.00        11
+                                                          moxifloxacin       0.19      0.74      0.30       141
+                                                            moxonidine       0.00      0.00      0.00         8
+                                                             mupirocin       0.19      0.79      0.31        47
+                                                 mycophenolate mofetil       0.00      0.00      0.00        17
+                                                  mycophenolate sodium       0.86      0.50      0.63        12
+                                                          myo inositol       0.00      0.00      0.00         3
+                                               n butyl 2 cyanoacrylate       0.00      0.00      0.00         1
+                                                            nabumetone       0.00      0.00      0.00         1
+                                                          nadifloxacin       1.00      0.11      0.20         9
+                                                            nadroparin       0.00      0.00      0.00         2
+                                                            naftopidil       0.00      0.00      0.00         1
+                                                            nalbuphine       0.00      0.00      0.00         2
+                                                        nalidixic acid       0.00      0.00      0.00         7
+                                                              naloxone       0.00      0.00      0.00         1
+                                                            naltrexone       0.00      0.00      0.00         2
+                                                  nandrolone decanoate       0.59      0.96      0.73       296
+                                                           naphazoline       0.00      0.00      0.00        17
+                                                              naproxen       0.90      0.53      0.67        34
+                                                             natamycin       0.00      0.00      0.00         6
+                                                           nateglinide       0.00      0.00      0.00         3
+                                                             nebivolol       1.00      0.12      0.21        51
+                                                              neomycin       0.00      0.00      0.00        11
+                                                           neostigmine       0.00      0.00      0.00         2
+                                                             nepafenac       0.40      0.09      0.14        23
+                                                            netilmicin       0.00      0.00      0.00        14
+                                                            nevirapine       0.00      0.00      0.00         2
+                                                           nicergoline       0.00      0.00      0.00         1
+                                                            nicorandil       0.00      0.00      0.00        25
+                                                          nicotinamide       0.00      0.00      0.00         2
+                                                              nicotine       1.00      0.80      0.89         5
+                                                            nifedipine       0.75      0.18      0.29        17
+                                                            nimesulide       0.30      0.36      0.33       661
+                                                            nimodipine       0.00      0.00      0.00         3
+                                                            nintedanib       0.00      0.00      0.00         5
+                                                          nitazoxanide       0.87      0.52      0.65        25
+                                                            nitrazepam       0.00      0.00      0.00        20
+                                                        nitrofurantoin       0.00      0.00      0.00        29
+                                                         nitrofurazone       0.00      0.00      0.00         1
+                                                         nitroglycerin       0.76      0.41      0.54        46
+                                                        norepinephrine       0.00      0.00      0.00         5
+                                                        norethisterone       0.78      0.15      0.25        48
+                                                           norfloxacin       0.97      0.44      0.60        78
+                                                         nortriptyline       0.00      0.00      0.00         8
+                                                      obeticholic acid       0.00      0.00      0.00         9
+                                                            octenidine       0.00      0.00      0.00         1
+                                                    octreotide acetate       0.70      0.64      0.67        11
+                                                             ofloxacin       0.54      0.78      0.64      1354
+                                                            olanzapine       0.79      0.38      0.51       154
+                                                  olmesartan medoxomil       0.78      0.36      0.49       171
+                                                           olopatadine       1.00      0.03      0.06        31
+                                                            omeprazole       0.71      0.78      0.74       243
+                                                           ondansetron       0.61      0.83      0.70       500
+                                                             opipramol       0.00      0.00      0.00         5
+                                                              orlistat       0.70      0.85      0.77        27
+                                                            ornidazole       0.00      0.00      0.00        21
+                                                 oseltamivir phosphate       0.00      0.00      0.00         4
+                                                     otilonium bromide       0.00      0.00      0.00         1
+                                                             oxaceprol       0.00      0.00      0.00         8
+                                                           oxaliplatin       0.00      0.00      0.00        20
+                                                              oxazepam       0.00      0.00      0.00         3
+                                                         oxcarbazepine       0.72      0.33      0.45        55
+                                                            oxetacaine       0.43      0.33      0.38        27
+                                                           oxiconazole       0.00      0.00      0.00         3
+                                                            oxybutynin       0.00      0.00      0.00         2
+                                                         oxymetazoline       1.00      0.10      0.18        10
+                                                       oxytetracycline       0.00      0.00      0.00         5
+oxytocics and prostaglandin e1 e2 and products for cervical dilatation       0.00      0.00      0.00         1
+                                                              oxytocin       0.80      0.67      0.73         6
+                                                               ozagrel       0.00      0.00      0.00         1
+                                                            ozenoxacin       0.00      0.00      0.00         5
+                                                            paclitaxel       0.59      0.45      0.51        29
+                                                          paliperidone       0.00      0.00      0.00         4
+                                                          palonosetron       0.00      0.00      0.00         3
+                                                           pamidronate       0.00      0.00      0.00         2
+                                                            pancreatin       1.00      0.32      0.48        25
+                                                          pantoprazole       0.44      0.89      0.59       565
+                                                           paracetamol       0.66      0.58      0.62       467
+                                             paracetamol acetaminophen       0.88      0.53      0.66        55
+                                                   paradichlorobenzene       0.00      0.00      0.00         2
+                                                             parecoxib       0.00      0.00      0.00         1
+                                                            paroxetine       0.68      0.63      0.65        86
+                                                             pazopanib       0.00      0.00      0.00         1
+                                                            pefloxacin       0.00      0.00      0.00         3
+                                                         pegfilgrastim       0.14      0.33      0.20         3
+                                         pegylated interferon alpha 2b       0.00      0.00      0.00         3
+                                                            pemetrexed       0.00      0.00      0.00         7
+                                                           penfluridol       0.00      0.00      0.00         1
+                                                         penicillamine       0.00      0.00      0.00         1
+                                                          penicillin g       0.00      0.00      0.00         7
+                                                           pentazocine       0.00      0.00      0.00         4
+                                           pentosan polysulfate sodium       0.00      0.00      0.00         1
+                                                        pentoxifylline       0.00      0.00      0.00         3
+                                                            perampanel       0.00      0.00      0.00         6
+                                                  perindopril erbumine       0.00      0.00      0.00         6
+                                                            permethrin       0.24      0.51      0.32        72
+                                                           pheniramine       0.00      0.00      0.00         3
+                                                        phenobarbitone       1.00      0.07      0.13        14
+                                                         phenylephrine       0.51      0.36      0.42       262
+                                                   phenylpropanolamine       0.00      0.00      0.00        27
+                                                             phenytoin       1.00      0.05      0.09        21
+                                                        phytomenadione       0.00      0.00      0.00         3
+                                                             pidotimod       0.00      0.00      0.00         2
+                                                           pilocarpine       0.00      0.00      0.00         3
+                                                          pimecrolimus       0.00      0.00      0.00         1
+                                                              pimozide       0.00      0.00      0.00         5
+                                                          pioglitazone       0.33      0.57      0.42        61
+                                                          piperacillin       0.98      0.69      0.81       187
+                                                            piperazine       0.00      0.00      0.00         1
+                                                             piracetam       0.47      0.57      0.52        89
+                                                           pirfenidone       0.00      0.00      0.00         5
+                                                             piroxicam       0.89      0.25      0.39        65
+                                                          pitavastatin       0.00      0.00      0.00         5
+                                                     placenta extracts       0.00      0.00      0.00         1
+                                                            plerixafor       0.00      0.00      0.00         1
+                                                           policosanol       0.00      0.00      0.00         1
+                                                         polio vaccine       0.00      0.00      0.00         2
+                                                   polyethylene glycol       0.83      0.31      0.45        16
+                                                           polymyxin b       0.38      0.27      0.32        11
+                                                     polyvinyl alcohol       0.00      0.00      0.00         4
+                                                          pomalidomide       0.00      0.00      0.00         4
+                                                          posaconazole       0.00      0.00      0.00         4
+                                                    potassium chloride       0.00      0.00      0.00         5
+                                                     potassium citrate       0.00      0.00      0.00         5
+                                                      potassium iodide       0.00      0.00      0.00         1
+                                                     potassium nitrate       0.56      0.83      0.67         6
+                                                       povidone iodine       0.89      0.41      0.56        81
+                                                           pralidoxime       0.00      0.00      0.00         4
+                                                           pramipexole       1.00      0.14      0.25        14
+                                                             prasugrel       0.00      0.00      0.00        11
+                                                              prazosin       0.33      0.33      0.33        12
+                                                          prednisolone       0.75      0.07      0.13        41
+                                                            pregabalin       0.72      0.69      0.70       231
+                                                            prilocaine       0.00      0.00      0.00         4
+                                                            primaquine       0.00      0.00      0.00         8
+                                                             primidone       0.00      0.00      0.00         5
+                                                      proanthocyanidin       0.00      0.00      0.00         3
+                                                          procarbazine       0.00      0.00      0.00         1
+                                                      prochlorperazine       0.00      0.00      0.00        16
+                                                          procyclidine       0.00      0.00      0.00        11
+                                                          progesterone       0.58      0.58      0.58       279
+                                                             proguanil       0.00      0.00      0.00         1
+                                                          promethazine       0.00      0.00      0.00        18
+                                                          proparacaine       0.00      0.00      0.00         3
+                                                              propofol       0.00      0.00      0.00         6
+                                                           propranolol       0.79      0.39      0.52        85
+                                                     protamine sulfate       0.00      0.00      0.00         1
+                                                         prothionamide       0.00      0.00      0.00         1
+                                                          prucalopride       0.00      0.00      0.00        12
+                                                         prulifloxacin       0.00      0.00      0.00         3
+                                                       pseudoephedrine       0.00      0.00      0.00        12
+                            purified vi polysaccharide typhoid vaccine       0.00      0.00      0.00         1
+                                                      pyrantel pamoate       0.00      0.00      0.00         3
+                                                          pyrazinamide       0.00      0.00      0.00        17
+                                                        pyridostigmine       0.00      0.00      0.00         2
+                                                         pyrimethamine       1.00      0.11      0.20         9
+                                                             pyritinol       0.00      0.00      0.00         1
+                                                            quetiapine       0.82      0.18      0.30        76
+                                                             quinapril       0.00      0.00      0.00         2
+                                                               quinine       1.00      0.12      0.22        41
+                                                           rabeprazole       0.38      0.86      0.53       503
+                                                  rabies vaccine human       0.00      0.00      0.00         4
+                                                          racecadotril       0.33      0.19      0.24        31
+                                                            raloxifene       0.00      0.00      0.00         3
+                                                              ramipril       0.42      0.35      0.38       116
+                                                            ranitidine       0.88      0.11      0.20        61
+                                                            ranolazine       0.00      0.00      0.00        16
+                                                            rasagiline       0.00      0.00      0.00         2
+                                                           rasburicase       0.00      0.00      0.00         1
+                                                            rebamipide       0.00      0.00      0.00         2
+                                                            reboxetine       0.00      0.00      0.00         1
+                              recombinant follicle stimulating hormone       0.18      0.17      0.17        12
+                             recombinant human epidermal growth factor       0.00      0.00      0.00         2
+                                 recombinant human erythropoietin alfa       0.68      0.77      0.72        35
+                                 recombinant human erythropoietin beta       0.00      0.00      0.00         1
+                                                            remdesivir       0.00      0.00      0.00         1
+                                               remogliflozin etabonate       1.00      0.20      0.33         5
+                                                           repaglinide       0.75      0.11      0.19        27
+                                                             reteplase       0.00      0.00      0.00         1
+                                                             ribavirin       0.00      0.00      0.00         4
+                                                            rifampicin       0.65      0.55      0.60        51
+                                                             rifaximin       0.38      0.32      0.35        66
+                                                            rimonabant       0.00      0.00      0.00         2
+                                                             riociguat       0.00      0.00      0.00         2
+                                                           risedronate       0.00      0.00      0.00         3
+                                                           risperidone       0.79      0.53      0.64       105
+                                                             ritodrine       0.00      0.00      0.00         8
+                                                             ritonavir       0.00      0.00      0.00         4
+                                                             rituximab       0.00      0.00      0.00         8
+                                                           rivaroxaban       1.00      0.10      0.18        31
+                                                          rivastigmine       1.00      0.12      0.22         8
+                                                           rizatriptan       0.00      0.00      0.00         8
+                                                            rocuronium       0.00      0.00      0.00         2
+                                                             rofecoxib       0.00      0.00      0.00        25
+                                                           roflumilast       0.00      0.00      0.00         3
+                                                           romiplostim       0.00      0.00      0.00         1
+                                                            ropinirole       0.00      0.00      0.00         8
+                                                           ropivacaine       0.00      0.00      0.00         4
+                                                         rosiglitazone       0.00      0.00      0.00         6
+                                                          rosuvastatin       0.43      0.42      0.43       363
+                                                     rotavirus vaccine       0.00      0.00      0.00         1
+                                                            roxatidine       0.00      0.00      0.00         1
+                                                         roxithromycin       0.67      0.20      0.30       122
+                                                            rupatadine       0.00      0.00      0.00         4
+                                                           ruxolitinib       0.00      0.00      0.00         1
+                            s adenosyl l methoinine disulfate tosylate       0.00      0.00      0.00         1
+                                                          s amlodipine       0.00      0.00      0.00        16
+                                                s metoprolol succinate       0.00      0.00      0.00         1
+                                               saccharomyces boulardii       0.00      0.00      0.00         2
+                                                            sacubitril       0.00      0.00      0.00         4
+                                                            safinamide       0.00      0.00      0.00         1
+                                                            salbutamol       0.78      0.18      0.29        39
+                                                        salicylic acid       0.00      0.00      0.00        10
+                                                            salmeterol       1.00      0.68      0.81        22
+                                              salmonella typhi vaccine       0.00      0.00      0.00         1
+                                                         satranidazole       0.00      0.00      0.00         1
+                                                           saxagliptin       0.00      0.00      0.00         3
+                                                           secnidazole       0.00      0.00      0.00         5
+                                                            selegiline       0.00      0.00      0.00         2
+                                                     serratiopeptidase       0.69      0.09      0.15       105
+                                                         sertaconazole       0.00      0.00      0.00        24
+                                                            sertraline       1.00      0.03      0.06        69
+                                                             sevelamer       0.00      0.00      0.00        28
+                                                            sildenafil       0.80      0.09      0.16        87
+                                                             silodosin       0.84      0.35      0.49        46
+                                                 silver nano particles       0.00      0.00      0.00         3
+                                                        silver nitrate       0.00      0.00      0.00         2
+                                                   silver sulfadiazine       0.00      0.00      0.00         3
+                                                             silymarin       0.56      0.48      0.51        21
+                                                           simethicone       1.00      0.10      0.18        10
+                                                           simvastatin       0.00      0.00      0.00        16
+                                                             sirolimus       0.00      0.00      0.00         3
+                                                             sisomicin       0.00      0.00      0.00         2
+                                                           sitagliptin       0.77      0.19      0.30        53
+                                                    sodium bicarbonate       0.67      0.16      0.26        25
+                                                       sodium chloride       0.89      0.46      0.61        37
+                                                   sodium cromoglycate       0.00      0.00      0.00         4
+                                                     sodium feredetate       0.00      0.00      0.00         1
+                                                       sodium fluoride       0.00      0.00      0.00         1
+                                                       sodium fusidate       0.00      0.00      0.00         4
+                                                    sodium hyaluronate       0.83      0.19      0.31        26
+                                                    sodium picosulfate       0.50      0.09      0.16        54
+                                                      sodium valproate       0.71      0.73      0.72        82
+                                                            sofosbuvir       0.00      0.00      0.00         5
+                                                           solifenacin       0.00      0.00      0.00        11
+                                                          somatostatin       0.00      0.00      0.00         2
+                                                            somatropin       0.00      0.00      0.00         2
+                                                             sorafenib       0.00      0.00      0.00         2
+                                                               sotalol       0.00      0.00      0.00         1
+                                                          sparfloxacin       1.00      0.02      0.04        55
+                                                            spiramycin       0.00      0.00      0.00         2
+                                                        spironolactone       0.83      0.24      0.37        21
+                                                            stanozolol       0.00      0.00      0.00         2
+                                                             stavudine       0.00      0.00      0.00         3
+                                                         sterile water       0.00      0.00      0.00         2
+                                                         streptokinase       1.00      0.67      0.80         6
+                                                          streptomycin       0.00      0.00      0.00         1
+                                             succinyl choline chloride       0.00      0.00      0.00         1
+                                                            sucralfate       0.27      0.45      0.34       157
+                                                             sulbactam       0.00      0.00      0.00         2
+                                                          sulfadiazine       0.00      0.00      0.00         3
+                                                      sulfamethoxazole       1.00      0.45      0.62        29
+                                                         sulfasalazine       0.33      0.14      0.20         7
+                                                        sulphacetamide       0.00      0.00      0.00         7
+                                                sultamicillin tosilate       0.57      0.53      0.55        15
+                                                           sumatriptan       0.00      0.00      0.00         7
+                                                             sunitinib       0.00      0.00      0.00         7
+                                                         suxamethonium       0.00      0.00      0.00         1
+                                                            tacrolimus       0.86      0.34      0.49        73
+                                                             tadalafil       0.75      0.13      0.22        46
+                                                             tamoxifen       0.00      0.00      0.00         9
+                                                            tamsulosin       0.73      0.44      0.55        87
+                                                            tapentadol       0.50      0.09      0.15        34
+                                                               taurine       1.00      0.27      0.43        11
+                                                            tazarotene       0.00      0.00      0.00         3
+                                                             tegaserod       0.00      0.00      0.00         2
+                                                           teicoplanin       0.82      0.56      0.67        25
+                                                           telmisartan       0.80      0.63      0.71       820
+                                                          temozolomide       0.00      0.00      0.00        22
+                                                          tenecteplase       0.00      0.00      0.00         2
+                                                         teneligliptin       0.00      0.00      0.00        70
+                                                 tenofovir alafenamide       0.00      0.00      0.00         2
+                                         tenofovir disoproxil fumarate       0.00      0.00      0.00         5
+                                                             terazosin       0.00      0.00      0.00         6
+                                                           terbinafine       0.43      0.09      0.14       184
+                                                           terbutaline       0.60      0.09      0.15        35
+                                                           terfenadine       0.00      0.00      0.00         2
+                                                         teriflunomide       0.00      0.00      0.00         1
+                                                          teriparatide       0.00      0.00      0.00         5
+                                                          terlipressin       0.32      0.55      0.40        11
+                                                          testosterone       0.00      0.00      0.00        10
+                                               testosterone propionate       0.00      0.00      0.00         1
+                                                        tetanus toxoid       0.00      0.00      0.00         4
+                                                         tetrabenazine       0.00      0.00      0.00         1
+                                                          tetracycline       0.00      0.00      0.00        10
+                                                           thalidomide       0.00      0.00      0.00         6
+                                                          theophylline       0.00      0.00      0.00        13
+                                                              thiamine       0.00      0.00      0.00        11
+                                                      thiocolchicoside       0.72      0.47      0.57        99
+                                                     thiopental sodium       0.00      0.00      0.00         3
+                                                          thioridazine       0.00      0.00      0.00        15
+                                                             thyroxine       0.88      0.77      0.82        69
+                                                            tianeptine       0.00      0.00      0.00         2
+                                                              tibolone       0.00      0.00      0.00         1
+                                                            ticagrelor       0.00      0.00      0.00        11
+                                                           ticarcillin       0.00      0.00      0.00         3
+                                                           ticlopidine       0.00      0.00      0.00         3
+                                                           tigecycline       0.00      0.00      0.00        16
+                                                               timolol       0.17      0.03      0.05        35
+                                                            tinidazole       0.00      0.00      0.00        13
+                                                            tiotropium       0.00      0.00      0.00         7
+                                                             tirofiban       1.00      0.67      0.80         3
+                                                            tizanidine       0.00      0.00      0.00         3
+                                                            tobramycin       0.26      0.21      0.24        56
+                                                           tofacitinib       0.00      0.00      0.00         7
+                                                             tofisopam       0.00      0.00      0.00         2
+                                                            tolnaftate       0.00      0.00      0.00         1
+                                                           tolperisone       0.58      0.28      0.37        40
+                                                           tolterodine       1.00      0.12      0.22         8
+                                                             tolvaptan       0.00      0.00      0.00         7
+                                                            topiramate       0.00      0.00      0.00        28
+                                                          topiroxostat       0.00      0.00      0.00         1
+                                                             topotecan       0.00      0.00      0.00         1
+                                                            torasemide       0.71      0.07      0.14        67
+                                                              tramadol       0.98      0.27      0.42       218
+                                                       tranexamic acid       0.95      0.47      0.63       176
+                                                           trastuzumab       1.00      0.33      0.50         6
+                                                            travoprost       1.00      0.22      0.36         9
+                                                             trazodone       0.00      0.00      0.00         7
+                                                             tretinoin       0.75      0.35      0.48        17
+                                                         triamcinolone       0.50      0.06      0.11        31
+                                               triamcinolone acetonide       0.00      0.00      0.00        18
+                                                    tricholine citrate       0.00      0.00      0.00         9
+                                                             triclofos       0.00      0.00      0.00         4
+                                                             triclosan       0.00      0.00      0.00         3
+                                                       trifluoperazine       0.50      0.12      0.20        24
+                                                       trihexyphenidyl       0.00      0.00      0.00        24
+                                                         trimetazidine       0.57      0.24      0.33        17
+                                                          trimethoprim       0.00      0.00      0.00         1
+                                                           trioxasalen       0.00      0.00      0.00        12
+                                                           triptorelin       0.00      0.00      0.00         1
+                                                           tropicamide       0.00      0.00      0.00         3
+                                                              trospium       0.00      0.00      0.00         2
+                                                               trypsin       0.75      0.12      0.21        99
+                                                  trypsin chymotrypsin       0.20      0.52      0.28        33
+                                                           tulobuterol       0.00      0.00      0.00         2
+                                                           ulinastatin       0.00      0.00      0.00         3
+                                                    ulipristal acetate       0.00      0.00      0.00         5
+                                                             uniflexin       0.00      0.00      0.00         1
+                                                             univestin       0.00      0.00      0.00         2
+                                                        urofollitropin       0.50      0.36      0.42        14
+                                                             urokinase       0.00      0.00      0.00         5
+                                                  ursodeoxycholic acid       0.48      0.69      0.57       157
+                                                          valacyclovir       0.00      0.00      0.00         6
+                                                            valdecoxib       0.00      0.00      0.00        16
+                                                           valethamate       0.00      0.00      0.00         2
+                                                        valganciclovir       0.00      0.00      0.00         6
+                                                         valproic acid       0.00      0.00      0.00         8
+                                                             valsartan       1.00      0.10      0.18        10
+                                                            vancomycin       1.00      0.08      0.14        26
+                                                            vardenafil       0.00      0.00      0.00         1
+                                          varicella vaccine attenuated       0.00      0.00      0.00         2
+                                                           vasopressin       0.00      0.00      0.00         2
+                                                            vecuronium       0.00      0.00      0.00         8
+                                                           venlafaxine       0.52      0.50      0.51        24
+                                                             verapamil       0.00      0.00      0.00         3
+                                                            vilazodone       0.00      0.00      0.00         6
+                                                          vildagliptin       0.13      0.25      0.17        57
+                                                           vinblastine       0.00      0.00      0.00         1
+                                                           vincristine       0.00      0.00      0.00         4
+                                                           vinorelbine       0.00      0.00      0.00         3
+                                                           vinpocetine       0.00      0.00      0.00         3
+                                                             vitamin a       0.00      0.00      0.00         2
+                                                             vitamin b       0.00      0.00      0.00         5
+                                                             vitamin c       0.00      0.00      0.00         6
+                                                            vitamin d3       0.95      0.88      0.91        41
+                                                             vitamin e       0.00      0.00      0.00         1
+                                                             vitamin k       0.00      0.00      0.00         1
+                                                             voglibose       0.72      0.47      0.57       130
+                                                          voriconazole       0.00      0.00      0.00        17
+                                                          vortioxetine       0.00      0.00      0.00         7
+                                                              warfarin       0.00      0.00      0.00         4
+                                                   xantinol nicotinate       0.00      0.00      0.00         1
+                                                        xylometazoline       0.75      0.96      0.84        46
+                                                              zaleplon       0.00      0.00      0.00         2
+                                                            zidovudine       0.00      0.00      0.00         4
+                                                          zinc acetate       0.00      0.00      0.00         2
+                                                        zinc gluconate       0.00      0.00      0.00         2
+                                                          zinc sulfate       0.00      0.00      0.00         1
+                                                           ziprasidone       0.00      0.00      0.00         3
+                                                       zoledronic acid       0.67      0.18      0.29        11
+                                                          zolmitriptan       0.00      0.00      0.00         1
+                                                              zolpidem       1.00      0.03      0.05        40
+                                                            zonisamide       0.00      0.00      0.00         3
+                                                             zopiclone       0.00      0.00      0.00         2
+                                                              zotepine       0.00      0.00      0.00         1
+
+                                                              accuracy                           0.52     50583
+                                                             macro avg       0.24      0.12      0.13     50583
+                                                          weighted avg       0.58      0.52      0.48     50583

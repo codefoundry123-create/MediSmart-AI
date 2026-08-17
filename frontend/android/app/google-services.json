@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157987402705",
+    "project_id": "medismart-app-d5f03",
+    "storage_bucket": "medismart-app-d5f03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157987402705:android:e5715e591dd15ad1f0e6f0",
+        "android_client_info": {
+          "package_name": "com.example.medismart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAzCpeuzSKpzc7hxkoQx-DVT88KP2VN2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
