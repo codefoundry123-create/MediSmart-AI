@@ -1,0 +1,102 @@
+name: Build MediSmart Android APK
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build-apk:
+    name: Build MediSmart Release APK
+    runs-on: ubuntu-latest
+    steps:
+      # --------------------------------------------------
+      # 1. Checkout MediSmart repository
+      # --------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v5
+      # --------------------------------------------------
+      # 2. Setup Java
+      # --------------------------------------------------
+      - name: Setup Java 17
+        uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: "17"
+      # --------------------------------------------------
+      # 3. Setup Flutter
+      # --------------------------------------------------
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "3.38.5"
+          channel: stable
+          cache: true
+      # --------------------------------------------------
+      # 4. Show environment versions
+      # --------------------------------------------------
+      - name: Check Flutter and Java versions
+        run: |
+          flutter --version
+          java -version
+      # --------------------------------------------------
+      # 5. Get Flutter dependencies
+      # --------------------------------------------------
+      - name: Get Flutter dependencies
+        working-directory: frontend
+        run: flutter pub get
+      # --------------------------------------------------
+      # 6. Build Android APK
+      # --------------------------------------------------
+      - name: Build release APK
+        working-directory: frontend
+        run: flutter build apk --release
+      # --------------------------------------------------
+      # 7. Prepare APK for release
+      # --------------------------------------------------
+      - name: Prepare APK
+        run: |
+          mkdir -p release
+          cp frontend/build/app/outputs/flutter-apk/app-release.apk \
+             release/MediSmart-AI.apk
+      # --------------------------------------------------
+      # 8. Upload APK as GitHub Actions artifact
+      # --------------------------------------------------
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MediSmart-AI-APK
+          path: release/MediSmart-AI.apk
+          if-no-files-found: error
+      # --------------------------------------------------
+      # 9. Create GitHub Release
+      # --------------------------------------------------
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: MediSmart AI v1.0.${{ github.run_number }}
+          body: |
+            # MediSmart AI
+            Android APK release for MediSmart AI.
+            ## Features
+            - AI-powered medicine identification
+            - Prescription analysis
+            - Persistent agent memory
+            - CockroachDB integration
+            - CockroachDB distributed vector indexing
+            - Amazon Bedrock integration
+            - Amazon S3 prescription storage
+            - User search history
+            ## Installation
+            1. Download `MediSmart-AI.apk`.
+            2. Transfer it to an Android device if necessary.
+            3. Install the APK.
+            4. Allow installation from unknown sources if Android asks.
+            ## Requirements
+            - Android device
+            - Internet connection
+            - MediSmart backend must be available
+          files: release/MediSmart-AI.apk
+          draft: false
+          prerelease: false
+          make_latest: true
+          overwrite_files: true
